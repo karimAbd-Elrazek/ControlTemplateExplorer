@@ -28,7 +28,7 @@ A powerful, modern WPF application for exploring and examining the XAML template
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/WPF-Control-Template-Explorer.git
+   git clone https://github.com/karimAbd-Elrazek/WPF-Control-Template-Explorer.git
    cd WPF-Control-Template-Explorer
    ```
 
