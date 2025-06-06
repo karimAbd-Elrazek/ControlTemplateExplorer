@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWPF>true</UseWPF>
+		<AssemblyTitle>WPF Control Template Explorer</AssemblyTitle>
+		<AssemblyDescription>A comprehensive tool for exploring WPF control templates</AssemblyDescription>
+		<AssemblyCompany>Custom Development</AssemblyCompany>
+		<AssemblyProduct>WPF Control Template Explorer</AssemblyProduct>
+		<AssemblyVersion>1.0.0.0</AssemblyVersion>
+		<AssemblyFileVersion>1.0.0.0</AssemblyFileVersion>
+		<StartupObject>ControlTemplateExplorer.App</StartupObject>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- No additional packages needed for .NET 8 WPF -->
+	</ItemGroup>
+
+</Project>
