@@ -54,9 +54,11 @@ A powerful, modern WPF application for exploring and examining the XAML template
 
 ### Main Interface
 The application features a clean, modern interface with a control list on the left and template viewer on the right.
+![image](https://github.com/user-attachments/assets/cebaffcf-f67c-4e11-94cf-c338d9b20cf5)
 
 ### Template View
 View beautifully formatted XAML templates with syntax highlighting and detailed information.
+![image](https://github.com/user-attachments/assets/89fd8b34-51cf-4f1a-9c36-10bcc2d65bad)
 
 ## 🛠️ How It Works
 
@@ -101,14 +103,6 @@ WPF-Control-Template-Explorer/
 - **WPF Education**: Great tool for teaching WPF control architecture
 - **Debugging**: Examine control structures when troubleshooting styling issues
 
-## 🤝 Contributing
-
-Contributions are welcome! Here are some ways you can help:
-
-1. **Report Bugs**: Open an issue if you find any problems
-2. **Suggest Features**: Ideas for new functionality are appreciated
-3. **Submit Pull Requests**: Fix bugs or add new features
-4. **Documentation**: Help improve documentation and examples
 
 ### Development Setup
 
