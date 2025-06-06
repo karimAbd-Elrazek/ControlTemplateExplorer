@@ -144,8 +144,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-- **Issues**: [GitHub Issues](https://github.com/karimAbd-Elrazek/WPF-Control-Template-Explorer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/karimAbd-Elrazek/WPF-Control-Template-Explorer/discussions)
+- **Issues**: [GitHub Issues](https://github.com/karimAbd-Elrazek/ControlTemplateExplorer/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/karimAbd-Elrazek/ControlTemplateExplorer/discussions)
 
 ## ⭐ Show Your Support
 
